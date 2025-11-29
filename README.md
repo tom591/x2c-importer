@@ -1,4 +1,4 @@
-# 📊 X2CImporter | XLSX → CSV Converter (with optional GUI)
+# 📊 x2c-importer | XLSX → CSV Converter for database import (with optional GUI)
 by Tom Salaj
 
 [![Python](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/)
